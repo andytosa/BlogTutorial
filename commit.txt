@@ -1,0 +1,4 @@
+Added profile edit
+
+Image resize to reduce loading time + storage space
+Author image for blog post
